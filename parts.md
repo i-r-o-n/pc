@@ -10,7 +10,7 @@ Type|Price (USD)|Dimensions (LxWxH mm)
 [modultra lobo w/ plain heatsync](https://modultra.com/shop/ols/products/modultra-pump-block-plain-heatsink-combo) | $205.00 | 91 x 91 x 45
 [ek gpu waterblock](https://www.ekwb.com/shop/ek-quantum-vector-ftw3-rtx-3080-3090-d-rgb-nickel-acetal) | ~~$188.99~~ | 314 x 155 x 21
 [ek gpu waterblock backplate](https://www.ekwb.com/shop/ek-quantum-vector-ftw3-rtx-3080-3090-active-backplate-acetal) | ~~$109.22~~ | 303 x 151 x 38
-[ew ddc pump 4.2 (from modultra)](https://modultra.com/shop/ols/products/ddc-4-2) | $79.99 | N/A, inc. above
+[ew ddc pump 4.2](https://modultra.com/shop/ols/products/ddc-4-2) | $79.99 | N/A, inc. above
 **NOT INCLUDED** | - | -
 [alphacool es 1U reservoir ddc](https://shop.alphacool.com/en/shop/reservoirs-distro-plates/other-reservoirs/15377-alphacool-es-reservoir-1u-ddc-version?currency=3) | $70.80 | 100 x 68 x 40
 [iceman exterior pump res](https://www.icemancooler.com/page84.html?product_id=228&_l=en) | $150 | x x 
